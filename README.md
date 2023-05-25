@@ -61,4 +61,4 @@
 
 <p><img src ="https://github-readme-stats.vercel.app/api?username=Kadiiravsaar&show_icons=true&theme=transparent"></p>
 
-<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadiiravsaar&layout=compact" width = "370"></p>
+//<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadiiravsaar&layout=compact" width = "370"></p>
