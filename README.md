@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?kadiiravsaar&theme=swift&hide_border=true" height="193" alt="languages graph"  />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?kadiiravsaar&theme=swift&hide_border=true" height="193" alt="languages graph](https://github-readme-streak-stats.herokuapp.com/?user=kadiiravsaar&theme=swift&hide_border=true)"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiiravsaar&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="193" alt="streak graph"  />
 </div>
 
