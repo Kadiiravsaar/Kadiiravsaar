@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
-<h3 align="center">A software developer who likes to improve herself from Turkey</h3>
+<h3 align="center">A software developer who likes to improve himself from Turkey</h3>
 
 - 🌱 I’m currently learning **Javascript, React.js, .Net Core**
 
